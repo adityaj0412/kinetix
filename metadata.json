@@ -1,0 +1,8 @@
+
+{
+  "name": "Kinetix",
+  "description": "A high-performance fitness tracker that uses device sensors to monitor activity and provides personalized goal analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
